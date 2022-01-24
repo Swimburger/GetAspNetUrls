@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlsInHostedService", "UrlsInHostedService\UrlsInHostedService.csproj", "{6472D6C5-D67A-43B6-90A1-B7345A1AD7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlsInProgram", "UrlsInProgram\UrlsInProgram.csproj", "{2663190B-9364-4A36-B38C-9D91509C6E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlsViaDependencyInjection", "UrlsViaDependencyInjection\UrlsViaDependencyInjection.csproj", "{B31D2011-E49C-4DDD-86D3-4D97177F624F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6472D6C5-D67A-43B6-90A1-B7345A1AD7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6472D6C5-D67A-43B6-90A1-B7345A1AD7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6472D6C5-D67A-43B6-90A1-B7345A1AD7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6472D6C5-D67A-43B6-90A1-B7345A1AD7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2663190B-9364-4A36-B38C-9D91509C6E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2663190B-9364-4A36-B38C-9D91509C6E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2663190B-9364-4A36-B38C-9D91509C6E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2663190B-9364-4A36-B38C-9D91509C6E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31D2011-E49C-4DDD-86D3-4D97177F624F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31D2011-E49C-4DDD-86D3-4D97177F624F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31D2011-E49C-4DDD-86D3-4D97177F624F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31D2011-E49C-4DDD-86D3-4D97177F624F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
